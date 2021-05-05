@@ -35,3 +35,12 @@ show_date: true
 index_page: /
 main_site: /
 github: https://github.com/shuhaoc
+
+# Show number of visitors to each article.
+# You can visit https://leancloud.cn get AppID and AppKey.
+leancloud_visitors:
+  enable: true
+  app_id: TTmRFEaTeIaPpvpREjwBW7Us-gzGzoHsz
+  app_key: NGwl0ufyzGnytmSoJNbuS96J
+  security: false
+  betterPerformance: true
