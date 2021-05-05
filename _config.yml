@@ -33,7 +33,6 @@ show_excerpt: true
 show_date: true
 #footer
 index_page: /
-main_site: /
 github: https://github.com/shuhaoc
 
 # Show number of visitors to each article.
@@ -44,3 +43,9 @@ leancloud_visitors:
   app_key: NGwl0ufyzGnytmSoJNbuS96J
   security: false
   betterPerformance: true
+
+links:
+  Dozer: https://www.dozer.cc/
+  Roc wong: https://roc-wong.github.io/
+  晋哥哥的私房钱: http://jingege.me/
+  翔工作室: https://blog.atcumt.com/
